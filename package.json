@@ -1,0 +1,19 @@
+{
+  "name": "buzzfizz",
+  "version": "1.0.0",
+  "description": "Solution to the buzzfizz coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambdatastic/buzzfizz.git"
+  },
+  "author": "Cassandra Cruz <celkamada@gmail.com> (http://alicekamada.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambdatastic/buzzfizz/issues"
+  },
+  "homepage": "https://github.com/lambdatastic/buzzfizz#readme"
+}
